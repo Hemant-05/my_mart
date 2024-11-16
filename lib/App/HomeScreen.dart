@@ -14,7 +14,7 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(),
       body: Container(
         alignment: Alignment.center,
-        child: Text(
+        child: const Text(
           "My Mart",
           style: TextStyle(fontWeight: FontWeight.bold, fontSize: 30),
         ),
