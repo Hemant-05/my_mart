@@ -23,6 +23,7 @@ dependencies:
   get: ^4.6.6
   get_storage: ^2.1.1
   flutter_native_splash: ^2.4.2
+  smooth_page_indicator: ^1.2.0+3
 
 dev_dependencies:
   flutter_test:
@@ -36,6 +37,8 @@ flutter:
   # --- Images,Icons,Logos --- #
   assets:
     - assets/images/
+    - assets/images/on_boarding_images/
+    - assets/images/other_images/
     - assets/icons/
     - assets/logos/
   
